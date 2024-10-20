@@ -1,0 +1,12 @@
+.container {
+    padding: 20px;
+  }
+  
+  footer, header {
+    margin: 0;
+    padding: 20px 0;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+    text-align: center;
+  }
+  
